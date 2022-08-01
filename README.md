@@ -1,3 +1,3 @@
 # hello-world
 
-Goku is high tier 
+Goku is mid tier 
